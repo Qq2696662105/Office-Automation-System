@@ -1,5 +1,0 @@
-com\dataKing\common\jwt\JwtHelper.class
-com\dataKing\common\result\ResponseUtil.class
-com\dataKing\common\result\ResultCodeEnum.class
-com\dataKing\common\result\Result.class
-com\dataKing\common\utils\MD5.class
